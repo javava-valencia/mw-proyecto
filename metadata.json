@@ -1,0 +1,6 @@
+{
+  "name": "Comanda Digital - La Casa de Toño",
+  "description": "Sistema de diseño y comanda digital colaborativa para La Casa de Toño con división y unión de cuentas en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
